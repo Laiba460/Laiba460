@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Laiba460.
+- 👋 Hi, I’m Laiba Ansari.
 - 👀 I’m interested in programming. 
 - 🌱 I’m currently learning react js.
 - 😄 Pronouns: Laiba.
